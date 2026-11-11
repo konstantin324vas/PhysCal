@@ -1,0 +1,11 @@
+/root/Programms/PhysLib/bin/Debug/net10.0/PhysLib.deps.json
+/root/Programms/PhysLib/bin/Debug/net10.0/PhysLib.dll
+/root/Programms/PhysLib/bin/Debug/net10.0/PhysLib.pdb
+/root/Programms/PhysLib/obj/Debug/net10.0/PhysLib.GeneratedMSBuildEditorConfig.editorconfig
+/root/Programms/PhysLib/obj/Debug/net10.0/PhysLib.AssemblyInfoInputs.cache
+/root/Programms/PhysLib/obj/Debug/net10.0/PhysLib.AssemblyInfo.cs
+/root/Programms/PhysLib/obj/Debug/net10.0/PhysLib.csproj.CoreCompileInputs.cache
+/root/Programms/PhysLib/obj/Debug/net10.0/PhysLib.dll
+/root/Programms/PhysLib/obj/Debug/net10.0/refint/PhysLib.dll
+/root/Programms/PhysLib/obj/Debug/net10.0/PhysLib.pdb
+/root/Programms/PhysLib/obj/Debug/net10.0/ref/PhysLib.dll
